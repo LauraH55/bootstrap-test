@@ -1,24 +1,13 @@
-body {
-  background-color:;
-  margin: 0;
+.card-top {
+    height: 200px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
 }
-html {
-    position: relative;
-    min-height: 100%;
-}
-footer{
 
-background:#ccc;
-
-position:absolute;
-
-bottom:0;
-
-width:100%;
-
-padding-top: 0px;
-
-height:50px;
-
-}
+.skills img.card-img-top {
+    width: auto;
+    height: 100%;
 }

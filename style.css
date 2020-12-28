@@ -11,3 +11,17 @@
     width: auto;
     height: 100%;
 }
+
+
+.title1 {
+  font-style: italic;
+
+}
+
+.page-footer {
+  color: white;
+}
+
+body {
+  font-family: 'Jura', sans-serif;
+}
